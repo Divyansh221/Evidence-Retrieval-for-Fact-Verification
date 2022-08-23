@@ -1,7 +1,6 @@
-#README
-Information Retrieval (CS60092)
-Term Project
 Evidence Retrieval for Fact Verification
+
+Our aim in this project is to retrieve evidence for various Wikipedia article based claims. Fact verification is of great importance in the present scenario where fake news and claims are highly prevalent. Fact verification is generally a 2 step process which involves evidence retrieval and then analyzing the evidence to understand whether it supports or refutes the claim, but here we are concerned only with the retrieval process.
 
 We have submitted the code by sharing a Google Colab, where all necessary packages can be imported and installed with a single click.
 The project is implemented in a single Google colab file: IR_Project5.ipynb
