@@ -1,4 +1,4 @@
-#Evidence Retrieval for Fact Verification
+### Evidence Retrieval for Fact Verification
 
 Our aim in this project is to retrieve evidence for various Wikipedia article based claims. Fact verification is of great importance in the present scenario where fake news and claims are highly prevalent. Fact verification is generally a 2 step process which involves evidence retrieval and then analyzing the evidence to understand whether it supports or refutes the claim, but here we are concerned only with the retrieval process.
 
@@ -6,7 +6,7 @@ We have submitted the code by sharing a Google Colab, where all necessary packag
 The project is implemented in a single Google colab file: IR_Project5.ipynb
 Link: https://colab.research.google.com/drive/1cTIVyd6SyMlnztqebPCGu4XLz-Ms-zlv?usp=sharing
 
-Instructions to Run:
+# Instructions to Run:
 1. Section 0:
 		Contains all packages that will be required but may not be present in the runtime environment.
 		Run the commands as required.
@@ -33,7 +33,7 @@ Instructions to Run:
 	To check accuracy we can run the model on the training set of the FEVER dataset and manually check 
 	the output against the given evidences.
 
-Links:
+# Links:
 	Demo: https://drive.google.com/file/d/1rEPk3UKwTv81qCYwNsuV9bXbyCUDNWDY/view?usp=sharing
 	Google Colab Notebook: https://colab.research.google.com/drive/1cTIVyd6SyMlnztqebPCGu4XLz-Ms-zlv?usp=sharing
 			
