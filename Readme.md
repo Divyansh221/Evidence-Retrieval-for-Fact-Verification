@@ -1,4 +1,4 @@
-Evidence Retrieval for Fact Verification
+#Evidence Retrieval for Fact Verification
 
 Our aim in this project is to retrieve evidence for various Wikipedia article based claims. Fact verification is of great importance in the present scenario where fake news and claims are highly prevalent. Fact verification is generally a 2 step process which involves evidence retrieval and then analyzing the evidence to understand whether it supports or refutes the claim, but here we are concerned only with the retrieval process.
 
