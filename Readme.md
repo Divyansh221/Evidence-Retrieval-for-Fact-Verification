@@ -9,8 +9,8 @@ The project is implemented in a single Google colab file: IR_Project5.ipynb
 
 ## Instructions to Run:
 1. Section 0:
-*      Contains all packages that will be required but may not be present in the runtime environment.
-*      Run the commands as required.
+	-	Contains all packages that will be required but may not be present in the runtime environment.
+	-	Run the commands as required.
 2. Dataset:
 *      Dataset is uploaded in google drive.
 
