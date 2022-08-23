@@ -12,7 +12,7 @@ Link: https://colab.research.google.com/drive/1cTIVyd6SyMlnztqebPCGu4XLz-Ms-zlv?
 		Run the commands as required.
 2. Dataset:
 		Dataset is uploaded in google drive.
-		Link: https://drive.google.com/drive/folders/10CQ_BADLLNgALyTwC_18gmYzWL58cpG-?usp=sharing
+	Link: https://drive.google.com/drive/folders/10CQ_BADLLNgALyTwC_18gmYzWL58cpG-?usp=sharing
 		The folder is shared; add it to your drive and mount to the runtime environment (Code is provided).
 3. Run the cells sequentially as in the notebook for Sections 1 through 3
 4. The model can be run for different thresholds as required:
